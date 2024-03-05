@@ -1,0 +1,5 @@
+com/siyun/inventoryservice/service/InventoryService.class
+com/siyun/inventoryservice/repository/InventoryRepository.class
+com/siyun/inventoryservice/controller/InventoryController.class
+com/siyun/inventoryservice/model/Inventory.class
+com/siyun/inventoryservice/InventoryServiceApplication.class
